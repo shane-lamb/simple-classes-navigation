@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "scripts": {
         "start": "ts-node src/app.ts",
+        "examples": "ts-node src/examples.ts",
         "test": "jest"
     },
     "dependencies": {},
